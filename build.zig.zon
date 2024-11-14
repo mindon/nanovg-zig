@@ -1,0 +1,15 @@
+.{
+    .name = "nanovg-zig",
+    .version = "0.0.1",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "examples",
+        "js",
+        "lib",
+        "src",
+        "LICENSE.txt",
+        "README.md",
+        "index.html"
+    },
+}
